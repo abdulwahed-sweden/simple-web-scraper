@@ -1,0 +1,55 @@
+URL: https://books.toscrape.com
+Status: 200
+Title: All products | Books to Scrape - Sandbox
+
+Headings (21):
+  - All products
+  - A Light in the ...
+  - Tipping the Velvet
+  - Soumission
+  - Sharp Objects
+  - Sapiens: A Brief History ...
+  - The Requiem Red
+  - The Dirty Little Secrets ...
+  - The Coming Woman: A ...
+  - The Boys in the ...
+  - The Black Maria
+  - Starving Hearts (Triangular Trade ...
+  - Shakespeare's Sonnets
+  - Set Me Free
+  - Scott Pilgrim's Precious Little ...
+  - Rip it Up and ...
+  - Our Band Could Be ...
+  - Olio
+  - Mesaerion: The Best Science ...
+  - Libertarianism for Beginners
+  - It's Only the Himalayas
+
+Paragraphs (40):
+  1. £51.77
+  2. In stock
+  3. £53.74
+  4. In stock
+  5. £50.10
+  ... and 35 more
+
+Links (94):
+  - Books to Scrape (https://books.toscrape.com/index.html)
+  - Home (https://books.toscrape.com/index.html)
+  - Books (https://books.toscrape.com/catalogue/category/books_1/index.html)
+  - Travel (https://books.toscrape.com/catalogue/category/books/travel_2/index.html)
+  - Mystery (https://books.toscrape.com/catalogue/category/books/mystery_3/index.html)
+  - Historical Fiction (https://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html)
+  - Sequential Art (https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html)
+  - Classics (https://books.toscrape.com/catalogue/category/books/classics_6/index.html)
+  - Philosophy (https://books.toscrape.com/catalogue/category/books/philosophy_7/index.html)
+  - Romance (https://books.toscrape.com/catalogue/category/books/romance_8/index.html)
+  ... and 84 more
+
+Images (20):
+  - A Light in the Attic (https://books.toscrape.com/media/cache/2c/da/2cdad67c44b002e7ead0cc35693c0e8b.jpg)
+  - Tipping the Velvet (https://books.toscrape.com/media/cache/26/0c/260c6ae16bce31c8f8c95daddd9f4a1c.jpg)
+  - Soumission (https://books.toscrape.com/media/cache/3e/ef/3eef99c9d9adef34639f510662022830.jpg)
+  - Sharp Objects (https://books.toscrape.com/media/cache/32/51/3251cf3a3412f53f339e42cac2134093.jpg)
+  - Sapiens: A Brief History of Humankind (https://books.toscrape.com/media/cache/be/a5/bea5697f2534a2f86a3ef27b5a8c12a6.jpg)
+  ... and 15 more
